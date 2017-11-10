@@ -19,5 +19,6 @@ Mid ——移动端优化解决方案
 user.password
 试着用下这个语句提示修改成功。  
 
+### 找到这个文件了，输入vi .git/config
 
 
