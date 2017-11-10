@@ -30,4 +30,5 @@ user.password
 就是当打开新的项目时候，这个是否还可以使用。
 
 ### 配置公钥
-
+配置ssh，具体步骤见下面
+https://segmentfault.com/a/1190000002645623
